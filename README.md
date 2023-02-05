@@ -12,11 +12,13 @@ Sebuah script berisi response API dalam bentuk array, hasil dari script yaitu ak
 
 
 Cara menjalankan script:
-- Buka file (Soal-1.js atau Soal-2.js)
-- Klik 'Terminal'
-- Klik 'New Terminal'
-- Install npm terlebih dahulu: Ketik
-`npm install`
-- Ketik
-`npm run test1`
-`npm run test2`
+1. Clone repository ini
+```git clone https://github/davagaluhd/Pekanan-3.git```
+2. Buka Terminal
+3. Install npm terlebih dahulu
+```npm install```
+4. Jalankan script
+Soal-1.js
+```npm run test1```
+Soal-2.js
+```npm run test2```
