@@ -43,4 +43,4 @@ productBin.data.forEach(qty => {
     }
 });
 
-console.log('Total quantity for product code FBR00040101= ', + totalQuantity);
+console.log('Total quantity = ', + totalQuantity);

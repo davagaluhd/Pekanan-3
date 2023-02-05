@@ -1,13 +1,25 @@
 {
-  "name": "tugas-pekanan-3",
+  "name": "pekanan-3",
   "version": "1.0.0",
-  "description": "Tugas Pekanan 3 - No. 1",
+  "description": "Tugas Pekanan 3 - Javascript",
   "main": "Soal-1.js",
   "scripts": {
-    "test": "node Soal-1.js"
+    "test1": "node Soal-1.js",
+    "test2": "node Soal-2.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davagaluhd/Pekanan-3.git"
+  },
+  "keywords": [
+    "Tugas"
+  ],
   "author": "Dava Galuh",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davagaluhd/Pekanan-3/issues"
+  },
+  "homepage": "https://github.com/davagaluhd/Pekanan-3#readme",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }
