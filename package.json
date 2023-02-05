@@ -1,0 +1,14 @@
+{
+  "name": "tugas-pekanan-3",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 3 - No. 1",
+  "main": "Soal-1.js",
+  "scripts": {
+    "test": "node Soal-1.js"
+  },
+  "author": "Dava Galuh",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
