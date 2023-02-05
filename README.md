@@ -13,7 +13,7 @@ Sebuah script berisi response API dalam bentuk array, hasil dari script yaitu ak
 
 Cara menjalankan script:
 1. Clone repository ini
-```git clone https://github/davagaluhd/Pekanan-3.git```
+```git clone https://github.com/davagaluhd/Pekanan-3.git```
 2. Buka Terminal
 3. Install npm terlebih dahulu
 ```npm install```
