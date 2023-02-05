@@ -6,18 +6,17 @@ Penjelasan singkat logic pada code:
 - Jika input angka kurang dari 0, akan menampilkan kalimat "Tidak bisa input bilangan negatif",
 - Jika input angka ganjil, akan menampilkan kalimat "Tidak bisa input bilangan ganjil"
 - Jika input angka genap, akan menampilkan hasil kalkulasi
-Cara menjalankan script:
-- Buka file Soal-1.js
-- Klik 'Terminal'
-- Klik 'New Terminal'
-- Ketik "npm run test1"
-- Enter
 
 Soal 2
 Sebuah script berisi response API dalam bentuk array, hasil dari script yaitu akan menampilkan total keseluruhan quantity. Dalam script ini menggunakan logic pengulangan foreach untuk mendapatkan data dari variable array.
+
+
 Cara menjalankan script:
-- Buka file Soal-2.js
+- Buka file (Soal-1.js atau Soal-2.js)
 - Klik 'Terminal'
 - Klik 'New Terminal'
-- Ketik "npm run test2"
-- Enter
+- Install npm terlebih dahulu: Ketik
+`npm install`
+- Ketik
+`npm run test1`
+`npm run test2`
