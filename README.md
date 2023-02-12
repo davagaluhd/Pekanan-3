@@ -12,6 +12,8 @@ Sebuah script berisi response API dalam bentuk array, hasil dari script yaitu ak
 
 
 Cara menjalankan script:
+(https://drive.google.com/file/d/1JVSPQpwWI2uC4-6Zu9I13c4XTl_IInEr/view?usp=share_link)
+
 1. Buka Terminal
 2. Clone repository ini
 ```
