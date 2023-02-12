@@ -12,13 +12,21 @@ Sebuah script berisi response API dalam bentuk array, hasil dari script yaitu ak
 
 
 Cara menjalankan script:
-1. Clone repository ini
-```git clone https://github.com/davagaluhd/Pekanan-3.git```
-2. Buka Terminal
+1. Buka Terminal
+2. Clone repository ini
+```
+git clone https://github.com/davagaluhd/Pekanan-3.git
+```
 3. Install npm terlebih dahulu
-```npm install```
+```
+npm install
+```
 4. Jalankan script
 Soal-1.js
-```npm run test1```
+```
+npm run test1
+```
 Soal-2.js
-```npm run test2```
+```
+npm run test2
+```
